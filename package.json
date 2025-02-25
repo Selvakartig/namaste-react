@@ -1,4 +1,20 @@
 {
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "Namaster React",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "React",
+    "React",
+    "JS",
+    "Redux"
+  ],
+  "author": "Selvakartig",
+  "license": "ISC",
   "dependencies": {
     "parcel": "^2.13.3"
   }
